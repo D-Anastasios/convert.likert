@@ -1,0 +1,22 @@
+Package: convert.likert
+Title: Convert Likert Scales to Numeric
+Version: 0.0.0.9000
+Authors@R: 
+    person("Anastasios", "Dadiotis", , "dadiotisanastasios@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: A package to convert Likert scales to numeric values based on specific mappings. The package provides functions that 
+    convert either a column or a number of columns with the same mapping or a lot of columns with different mappings. The package also
+    provided an internal .json file with some popular mappings that can be quickly accesible. 
+License: MIT + file LICENSE
+Imports:
+    dplyr,
+    jsonlite,
+    magrittr,
+    purrr,
+    glue
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3

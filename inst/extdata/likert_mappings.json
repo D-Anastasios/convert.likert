@@ -1,0 +1,91 @@
+{
+  "mappings": {
+    "agreement_Snaith_RSE": {
+      "Strongly Disagree": 1,
+      "Disagree": 2,
+      "Agree": 3,
+      "Strongly Agree": 4
+    },
+    "severity": {
+      "None": 0,
+      "Mild": 1,
+      "Moderate": 3,
+      "Severe": 4,
+      "Extreme or cannot do": 4
+    },
+    "agreement_upps": {
+      "Agree Strongly": 1,
+      "Agree Some": 2,
+      "Disagree Some": 3,
+      "Disagree Strongly": 4
+    },
+    "frequency_OCI": {
+      "Not at all": 0,
+      "A little": 1,
+      "Moderately": 2,
+      "A lot": 3,
+      "Extremely": 4
+    },
+    "agreement_STICSA": {
+      "Not at All": 1,
+      "A Little": 2,
+      "Moderately": 3,
+      "Very Much So": 4
+    },
+    "true_AMI": {
+      "Completely Untrue": 1,
+      "Mostly Untrue": 2,
+      "Neither True nor Untrue": 3,
+      "Quite True": 4,
+      "Completely True": 5
+    },
+    "agreement_TAS": {
+      "Strongly Disagree": 1,
+      "Disagree": 2,
+      "Neither Agree nor Disagree": 3,
+      "Agree": 4,
+      "Strongly Agree": 5
+    },
+    "frequency_ADHD": {
+      "Never": 1,
+      "Rarely": 2,
+      "Sometimes": 3,
+      "Often": 4,
+      "Very often": 5
+    },
+    "frequency_gambling_habits": {
+      "Never": 1,
+      "Less than once a month": 2,
+      "One or more times per month": 3,
+      "Once a week": 4,
+      "More than once a week": 5
+    },
+    "agreement_GRCS": {
+      "Strongly Disagree": 1,
+      "Moderately Disagree": 2,
+      "Mildly Disagree": 3,
+      "Neither Agree nor Disagree": 4,
+      "Mildly Agree": 5,
+      "Moderately Agree": 6,
+      "Strongly Agree": 7
+    },
+    "frequency_PGSI": {
+      "Never": 0,
+      "Sometimes": 1,
+      "Most of the time": 2,
+      "Almost always": 3
+    },
+    "frequency_GMQ": {
+      "Never or almost never": 1,
+      "Sometimes": 2,
+      "Often": 3,
+      "Almost always or always": 4
+    },
+    "true_bisbas": {
+      "Very true for me": 1,
+      "Somewhat true for me": 2,
+      "Somewhat false for me": 3,
+      "Very false for me": 4
+    }
+  }
+}
