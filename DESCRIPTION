@@ -3,7 +3,7 @@ Title: Convert Likert Scales to Numeric
 Version: 0.0.0.9000
 Authors@R: 
     person("Anastasios", "Dadiotis", , "dadiotisanastasios@gmail.com", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
+           comment = c(ORCID = https://orcid.org/0009-0009-1788-2859))
 Description: A package to convert Likert scales to numeric values based on specific mappings. The package provides functions that 
     convert either a column or a number of columns with the same mapping or a lot of columns with different mappings. The package also
     provided an internal .json file with some popular mappings that can be quickly accesible. 
