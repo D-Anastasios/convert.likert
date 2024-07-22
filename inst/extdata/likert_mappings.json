@@ -21,7 +21,7 @@
     },
     "frequency_OCI": {
       "Not at all": 0,
-      "A little": 1,
+      "A Little": 1,
       "Moderately": 2,
       "A Lot": 3,
       "Extremely": 4
@@ -51,7 +51,7 @@
       "Rarely": 2,
       "Sometimes": 3,
       "Often": 4,
-      "Very often": 5
+      "Very Often": 5
     },
     "frequency_gambling_habits": {
       "Never": 1,
