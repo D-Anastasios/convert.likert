@@ -61,13 +61,13 @@
       "More than once a week": 5
     },
     "agreement_GRCS": {
-      "Strongly Disagree": 1,
-      "Moderately Disagree": 2,
-      "Mildly Disagree": 3,
-      "Neither Agree nor Disagree": 4,
-      "Mildly Agree": 5,
-      "Moderately Agree": 6,
-      "Strongly Agree": 7
+      "Strongly disagree": 1,
+      "Moderately disagree": 2,
+      "Mildly disagree": 3,
+      "Neither agree nor disagree": 4,
+      "Mildly agree": 5,
+      "Moderately agree": 6,
+      "Strongly agree": 7
     },
     "frequency_PGSI": {
       "Never": 0,
