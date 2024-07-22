@@ -14,16 +14,16 @@
       "Extreme or cannot do": 4
     },
     "agreement_upps": {
-      "Agree Strongly": 1,
-      "Agree Some": 2,
-      "Disagree Some": 3,
-      "Disagree Strongly": 4
+      "Strongly Agree": 1,
+      "Somewhat Agree": 2,
+      "Somewhat Disagree": 3,
+      "Strongly Disagree": 4
     },
     "frequency_OCI": {
       "Not at all": 0,
       "A little": 1,
       "Moderately": 2,
-      "A lot": 3,
+      "A Lot": 3,
       "Extremely": 4
     },
     "agreement_STICSA": {
@@ -64,7 +64,7 @@
       "Strongly disagree": 1,
       "Moderately disagree": 2,
       "Mildly disagree": 3,
-      "Neither agree nor disagree": 4,
+      "Neither agree or disagree": 4,
       "Mildly agree": 5,
       "Moderately agree": 6,
       "Strongly agree": 7
