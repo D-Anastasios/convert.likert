@@ -1,10 +1,10 @@
 {
   "mappings": {
     "agreement_Snaith_RSE": {
-      "Strongly Disagree": 1,
-      "Disagree": 2,
-      "Agree": 3,
-      "Strongly Agree": 4
+      "Strongly Disagree": 4,
+      "Disagree": 3,
+      "Agree": 2,
+      "Strongly Agree": 1
     },
     "severity": {
       "None": 0,
@@ -33,11 +33,11 @@
       "Very Much So": 4
     },
     "true_AMI": {
-      "Completely Untrue": 1,
-      "Mostly Untrue": 2,
+      "Completely Untrue": 5,
+      "Mostly Untrue": 4,
       "Neither True nor Untrue": 3,
-      "Quite True": 4,
-      "Completely True": 5
+      "Quite True": 2,
+      "Completely True": 1
     },
     "agreement_TAS": {
       "Strongly Disagree": 1,
